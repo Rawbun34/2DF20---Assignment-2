@@ -1,35 +1,4 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2014-09-23T10:22:20.140Z,0.1073,119.9809,69.15,5.3,mwb,,43,3.015,1.01,us,usb000sf7q,2014-12-19T00:05:27.040Z,"112 km N of Palu, Indonesia",earthquake,6.3,4.4,0.071,19,reviewed,us,us
-2014-09-23T14:16:09.710Z,-7.3404,120.5235,529.32,4.2,mb,,60,2.13,0.98,us,usb000si5j,2014-12-19T00:05:27.040Z,"140 km N of Ruteng, Indonesia",earthquake,11.7,4.1,0.137,16,reviewed,us,us
-2014-09-23T15:41:31.640Z,5.4065,93.2767,26.83,4.6,mb,,144,3.659,0.45,us,usb000si5m,2014-12-19T00:05:27.040Z,"228 km W of Banda Aceh, Indonesia",earthquake,10.6,7.2,0.193,12,reviewed,us,us
-2014-09-23T20:48:36.770Z,2.8029,126.4209,35,4.1,mb,,133,2.228,1.14,us,usb000si5t,2014-12-19T00:05:27.040Z,"212 km NW of Tobelo, Indonesia",earthquake,7.6,2,0.166,11,reviewed,us,us
-2014-09-23T22:33:07.890Z,-8.0639,122.5238,212.8,4.1,mb,,111,0.634,0.42,us,usb000si60,2014-12-19T00:05:27.040Z,"70 km NNE of Maumere, Indonesia",earthquake,8.6,8.7,0.158,12,reviewed,us,us
-2014-09-24T09:30:10.010Z,-7.1477,106.8674,78.79,4.4,mb,,62,0.808,1.01,us,usb000sfiw,2014-12-20T00:53:55.040Z,"26 km SSW of Sukabumi, Indonesia",earthquake,6,4.6,0.12,24,reviewed,us,us
-2014-09-24T12:06:09.260Z,4.2461,95.6838,80.97,4.5,mb,,131,1.593,1.01,us,usb000sfju,2014-12-20T00:53:56.040Z,"50 km WNW of Meulaboh, Indonesia",earthquake,7.5,7.6,0.103,33,reviewed,us,us
-2014-09-24T12:14:10.580Z,2.7264,128.4248,35,4.2,mb,,105,2.21,0.78,us,usb000sj8d,2014-12-20T00:53:56.040Z,"119 km NNE of Tobelo, Indonesia",earthquake,4.5,2,0.187,11,reviewed,us,us
-2014-09-24T23:15:06.160Z,-8.9687,126.9804,35,4,mb,,67,2.789,0.68,us,usb000sj8v,2014-12-20T00:53:56.040Z,"49 km S of Lospalos, Timor Leste",earthquake,3.5,2,0.212,6,reviewed,us,us
-2014-09-25T08:29:58.390Z,6.0011,95.5588,194.66,5,mb,,19,1.58,1.06,us,usb000sftr,2014-12-20T00:53:57.040Z,"29 km ENE of Sabang, Indonesia",earthquake,4.1,4.4,0.049,141,reviewed,us,us
-2014-09-25T09:06:09.530Z,-8.7909,111.1516,90.93,4.9,mb,,48,1.868,1.22,us,usb000sftw,2014-12-20T00:53:57.040Z,"99 km SW of Trenggalek, Indonesia",earthquake,7.1,5.6,0.075,62,reviewed,us,us
-2014-09-25T15:42:25.080Z,1.9937,126.1368,88.36,4.2,mb,,142,1.727,1.03,us,usb000sjgz,2014-12-20T00:53:57.040Z,"140 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,8.6,10.8,0.141,16,reviewed,us,us
-2014-09-25T18:07:53.880Z,-3.8543,128.646,112.54,4,mb,,118,3.714,0.49,us,usb000sjh2,2014-12-20T00:53:58.040Z,"54 km ESE of Ambon, Indonesia",earthquake,8,9.9,0.144,14,reviewed,us,us
-2014-09-25T21:28:42.240Z,-7.0404,126.0336,482.85,4.3,mb,,56,3.214,1.13,us,usb000sg28,2014-12-20T00:53:58.040Z,"162 km N of Manatutu, Timor Leste",earthquake,7.1,16.2,0.147,14,reviewed,us,us
-2014-09-25T22:48:57.350Z,3.002,96.2328,63.91,4.5,mb,,63,2.155,0.73,us,usb000sg23,2014-12-20T00:53:58.040Z,"59 km NNW of Sinabang, Indonesia",earthquake,7.4,6.9,0.068,67,reviewed,us,us
-2014-09-26T16:41:21.170Z,-8.9082,117.8615,58.06,4.2,mb,,95,3.693,0.97,us,usb000sgfd,2014-12-20T00:53:59.040Z,"66 km SE of Sumbawa Besar, Indonesia",earthquake,7.8,11.9,0.159,12,reviewed,us,us
-2014-09-26T18:29:11.310Z,3.9952,126.7034,55.09,5.1,mb,,42,3.252,1.33,us,usb000sgh2,2022-05-03T17:02:38.776Z,"207 km SE of Sarangani, Philippines",earthquake,6.5,3.4,0.052,126,reviewed,us,us
-2014-09-26T18:45:04.820Z,3.8699,126.6737,75.12,4.4,mb,,89,3.154,1.37,us,usb000sjwa,2014-12-20T00:53:59.040Z,"216 km SE of Sarangani, Philippines",earthquake,7.9,7,0.101,30,reviewed,us,us
-2014-09-26T22:11:47.660Z,-3.9161,102.4466,58,4.2,mb,,176,0.672,0.3,us,usb000sgkd,2014-12-20T00:53:59.040Z,"23 km ESE of Bengkulu, Indonesia",earthquake,7.8,6.7,0.125,19,reviewed,us,us
-2014-09-27T02:48:59.820Z,-4.6802,102.0664,41.96,4.4,mb,,98,0.941,0.79,us,usb000sgnh,2014-12-20T00:53:59.040Z,"99 km SSW of Bengkulu, Indonesia",earthquake,7.4,3.7,0.155,24,reviewed,us,us
-2014-09-27T05:01:18.380Z,6.2734,123.9628,519.41,4.7,mb,,53,1.789,0.69,us,usb000sgp4,2014-12-20T00:53:59.040Z,"21 km SSW of Sangay, Philippines",earthquake,9.2,10,0.12,24,reviewed,us,us
-2014-09-27T08:55:41.380Z,4.9444,96.5154,59.81,4.1,mb,,162,0.514,0.54,us,usb000sjwy,2014-12-20T00:54:00.040Z,"35 km SW of Bireun, Indonesia",earthquake,4.4,8.6,0.145,15,reviewed,us,us
-2014-09-27T09:04:06.880Z,-6.806,125.1913,522.02,4.1,mb,,132,3.069,0.47,us,usb000sjx8,2014-12-20T00:54:00.040Z,"197 km N of Likisá, Timor Leste",earthquake,15.8,14.7,0.185,9,reviewed,us,us
-2014-09-27T11:53:47.020Z,-4.6702,104.1767,98.22,4.4,mb,,147,1.255,0.54,us,usb000sjwv,2014-12-20T00:54:00.040Z,"59 km S of Baturaja, Indonesia",earthquake,8.6,7.7,0.155,13,reviewed,us,us
-2014-09-27T14:39:24.790Z,-6.2176,104.6227,43.73,4.9,mb,,61,2.481,0.89,us,usb000sgqq,2014-12-20T00:54:00.040Z,"112 km SW of Bandar Lampung, Indonesia",earthquake,6.9,5.1,0.074,72,reviewed,us,us
-2014-09-27T15:15:43.180Z,5.0546,94.2029,50.24,4.7,mb,,174,2.738,1.11,us,usb000sgqu,2014-12-20T00:54:00.040Z,"136 km WSW of Banda Aceh, Indonesia",earthquake,10,6.9,0.085,45,reviewed,us,us
-2014-09-28T07:09:52.200Z,1.7275,121.2811,62.66,4.3,mb,,76,3.128,0.94,us,usb000sgue,2014-12-20T00:54:01.040Z,"237 km WNW of Gorontalo, Indonesia",earthquake,6.5,11.7,0.133,17,reviewed,us,us
-2014-09-28T12:51:18.200Z,2.4355,126.8082,49.54,4.6,mb,,100,1.744,1.24,us,usb000sgvq,2014-12-20T00:54:01.040Z,"154 km WNW of Tobelo, Indonesia",earthquake,8.3,6.3,0.074,59,reviewed,us,us
-2014-09-28T21:32:55.340Z,2.2213,126.6803,55.38,4.2,mb,,139,1.595,0.66,us,usb000sk84,2014-12-20T00:54:02.040Z,"157 km WNW of Tobelo, Indonesia",earthquake,10.1,9.3,0.166,13,reviewed,us,us
-2014-09-29T08:07:38.030Z,0.6573,126.6595,76.62,4.5,mb,,59,0.716,0.62,us,usb000sk93,2014-12-20T00:54:02.040Z,"82 km W of Ternate, Indonesia",earthquake,7.2,8.1,0.131,19,reviewed,us,us
-2014-09-29T22:25:06.510Z,-8.9019,124.3458,116.08,4.3,mb,,94,0.851,0.81,us,usb000sh6m,2014-12-20T00:54:03.040Z,"33 km N of Pante Makasar, Timor Leste",earthquake,7.4,3.9,0.188,9,reviewed,us,us
 2014-09-30T04:56:22.560Z,-8.2396,119.6219,180.59,4.5,mb,,97,2.617,0.7,us,usb000skns,2014-12-20T00:54:03.040Z,"40 km NW of Labuan Bajo, Indonesia",earthquake,7.9,6.9,0.136,18,reviewed,us,us
 2014-09-30T17:38:23.610Z,7.8676,93.9861,29.28,4.4,mb,,211,3.94,1.24,us,usb000skpc,2014-12-20T00:54:04.040Z,"263 km NW of Sabang, Indonesia",earthquake,7.6,9.3,0.269,4,reviewed,us,us
 2014-09-30T23:14:17.210Z,2.1585,128.0532,52.97,4.1,mb,,152,1.538,0.82,us,usb000skpm,2014-12-20T00:54:05.040Z,"47 km N of Tobelo, Indonesia",earthquake,12.3,8.4,0.524,4,reviewed,us,us
